@@ -1,4 +1,4 @@
-﻿--DB for Project hjhj
+﻿--DB for Project
 USE [master]
 GO
 /****** Object:  Database [HouseWareShop]    Script Date: 12/1/2019 4:51:30 PM ******/
